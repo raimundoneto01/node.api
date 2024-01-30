@@ -17,4 +17,3 @@ fastify.listen({ port: PORT}, (err, address)=>{
     console.log(`Servidor is now ${address}`);
  })
 
-
